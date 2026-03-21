@@ -1,2 +1,3 @@
-# lite-marketplace-r0kd
-A online marketplace platform for modern development workflows
+# Lite Marketplace R0Kd
+
+A online marketplace platform for modern development workflows.
